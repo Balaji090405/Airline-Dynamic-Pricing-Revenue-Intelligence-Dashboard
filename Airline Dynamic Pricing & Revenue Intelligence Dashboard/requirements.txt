@@ -1,8 +1,5 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-plotly
-jupyter
-openpyxl
+Power BI Desktop
+Microsoft Excel
+Power Query
+DAX
+SQL
